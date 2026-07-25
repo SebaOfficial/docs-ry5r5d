@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-v4v6kt.indocuan-pro.site/sitemap.xml
